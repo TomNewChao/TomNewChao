@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TomNewChao
+- 👀 I’m interested in ceph, openstack, k8s, hardoop and so on.
+- 🌱 I want to be a application architect
+- 💞️ I’m interested in ceph, openstack, k8s, hardoop and so on.
+- 📫 Personal wechat official account: 猪哥哥讲技术栈
