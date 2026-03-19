@@ -1,3 +1,3 @@
 - 👋 Hi, I’m TomNewChao
-- 👀 I’m interested in full-stack, ceph, openstack, k8s, hardoop，opencv and AI.
+- 👀 full-stack, ceph, openstack, k8s, industry controller, opencv and AIGC.
 - 🌱 I want to be a application architect
