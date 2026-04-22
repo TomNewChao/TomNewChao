@@ -1,3 +1,3 @@
 - 👋 Hi, I’m TomNewChao
-- 👀 full-stack, ceph, openstack, k8s, industry controller, opencv and AIGC.
+- 👀 full-stack, ceph, openstack, k8s, industry controller, opencv and Agent.
 - 🌱 I want to be a application architect
