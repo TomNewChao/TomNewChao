@@ -80,21 +80,6 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
 
 <br/>
 
-<!-- ========== CONNECT ========== -->
-## <picture><img src="https://media.giphy.com/media/jpVnC65DmYeyrfWtcS/giphy.gif" width="35"></picture> Get in Touch
-
-<div align="center">
-  <a href="mailto:chaotomzhu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/TomNewChao">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Chengdu%2C%20Sichuan-UTC%2B8-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</div>
-
-<br/>
-
 <!-- ========== FOOTER ========== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:1e3a8a&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer"/>
