@@ -6,7 +6,7 @@
 <!-- ========== TYPING SUBTITLE ========== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;Building+AI-enabled+Industrial+Internet+%40openIndu;FastAPI+%C2%B7+React+19+%C2%B7+Milvus+%C2%B7+MCP+%C2%B7+Ceph+%C2%B7+K8s;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;Building+AI-enabled+Industrial+Internet+platforms;RAG+%C2%B7+MCP+%C2%B7+Agent+%C2%B7+Ceph+%C2%B7+K8s;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,19 +31,16 @@
 <!-- ========== ABOUT ME ========== -->
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlpdjY4N2pwYmtmZGUyc2RjbmVrM3F1bTRwMXc0OGZkNW85dW5tdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" width="35px"></picture> About Me
 
-Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I build **AI‑enabled industrial-internet platforms** and have a decade-spanning background in **cloud-native infrastructure** — from Ceph/OpenStack/Kubernetes operations to today's LLM-powered developer & operator tooling.
+Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enabled industrial-internet platforms** and have a long background in **cloud-native infrastructure** — from Ceph / OpenStack / Kubernetes operations to today's LLM-powered developer & operator tooling.
 
-🔭 **Currently building [@openIndu](https://github.com/openIndu) — AI‑enabled industrial internet:**
-- [`openIndu-backend`](https://github.com/openIndu/openIndu-backend) — FastAPI + PostgreSQL + **Milvus** + **MCP Server**; recently shipped streaming + direct-to-OSS multipart upload for **5 GB+** software packages.
-- [`openIndu-admin`](https://github.com/openIndu/openIndu-admin) — React 19 + Tailwind 4 + shadcn/ui unified admin dashboard (upload UX, version mgmt, bulk-publish).
-- [`openIndu-portal`](https://github.com/openIndu/openIndu-portal) — public Download Center & community portal.
-- [`openIndu-studio`](https://github.com/openIndu/openIndu-studio) — AI-assisted **PLC/HMI** dev toolchain (circuit design → BOM → IO planning → PLC code) backed by **RAG** over brand manuals + **MCP** agent tools.
+🔭 **Currently focused on:**
+- AI-enabled industrial-internet platforms — backend services, admin dashboards, public portals.
+- AI-assisted **PLC/HMI** development tooling backed by **RAG** + **MCP** agent workflows.
+- Multi-phase **Agent pipelines** for product development (spec → backlog → release → ops).
 
-🧪 **Experimenting at [@agentic-develop-playground](https://github.com/agentic-develop-playground)** with multi-phase Agent pipelines — `agent-development-specification`, `backlog`, `release-mgmt`, `workflow-control-tower`, GitOps via ArgoCD/Flux.
-
-🛠️ **Earlier work** I still care about:
-- [`open-infra`](https://github.com/TomNewChao/open-infra) — Vue + Django ops platform for the **openEuler** community (devops → aiops).
-- [`cephfs_storage`](https://github.com/TomNewChao/cephfs_storage) — Kubernetes provisioner that uses **CephFS** (via Ceph mgr API) as backend storage.
+🛠️ **Past work I still care about:**
+- Community ops platform for **openEuler** (devops → aiops).
+- Kubernetes provisioner using **CephFS** as backend storage.
 
 🎯 **Goal:** become an application architect — bridging classical cloud infra with LLM / Agent workflows.
 💬 *I may be slow to respond — but I deliver.*
