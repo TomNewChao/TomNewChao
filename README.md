@@ -81,32 +81,19 @@ motto:       "I may be slow to respond — but I deliver."
 
 <br/>
 
-<!-- ========== GITHUB STATS ========== -->
-## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> GitHub Stats
+<!-- ========== SUMMARY CARDS ========== -->
+## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> Summary Cards
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomNewChao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=22c55e" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomNewChao&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=6366f1" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=TomNewChao&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=22c55e&fire=eab308&currStreakLabel=6366f1" />
-</div>
-
-<br/>
-
-### 📌 Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomNewChao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomNewChao&theme=transparent" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomNewChao&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomNewChao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomNewChao&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomNewChao&theme=transparent" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomNewChao&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomNewChao&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomNewChao&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomNewChao&theme=transparent&utcOffset=8" />
 </div>
 
 <br/>
@@ -115,7 +102,7 @@ motto:       "I may be slow to respond — but I deliver."
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></picture> Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomNewChao&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6366f1&line=22c55e&point=eab308" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomNewChao&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <!-- ========== SNAKE ANIMATION ========== -->
@@ -123,15 +110,6 @@ motto:       "I may be slow to respond — but I deliver."
 
   <img src="https://raw.githubusercontent.com/TomNewChao/TomNewChao/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-</div>
-
-<br/>
-
-<!-- ========== QUOTE ========== -->
-## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"></picture> Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </div>
 
 <br/>
