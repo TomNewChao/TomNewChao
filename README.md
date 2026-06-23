@@ -1,12 +1,12 @@
 <!-- ========== HEADER BANNER ========== -->
 <a href="https://github.com/TomNewChao">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:a855f7&height=220&section=header&text=TomNewChao&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=full-stack%20%C2%B7%20cloud-native%20%C2%B7%20Agent&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:a855f7&height=220&section=header&text=TomNewChao&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI-enabled%20Industrial%20Internet%20%C2%B7%20Cloud-native%20%C2%B7%20Agent&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" alt="header"/>
 </a>
 
 <!-- ========== TYPING SUBTITLE ========== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;ceph+%C2%B7+openstack+%C2%B7+kubernetes+%C2%B7+opencv;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;Building+AI-enabled+Industrial+Internet+%40openIndu;FastAPI+%C2%B7+React+19+%C2%B7+Milvus+%C2%B7+MCP+%C2%B7+Ceph+%C2%B7+K8s;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,53 +31,22 @@
 <!-- ========== ABOUT ME ========== -->
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlpdjY4N2pwYmtmZGUyc2RjbmVrM3F1bTRwMXc0OGZkNW85dW5tdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" width="35px"></picture> About Me
 
-```yaml
-name:        TomNewChao
-location:    Sichuan, Chengdu 🇨🇳   (UTC+8)
-role:        Full-stack Engineer
-focus:
-  - cloud-native:   ceph · openstack · kubernetes
-  - vision & edge:  opencv · industry controller
-  - intelligence:   AI Agents · LLM tooling
-goal:        Become an Application Architect 🏗️
-motto:       "I may be slow to respond — but I deliver."
-```
+Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I build **AI‑enabled industrial-internet platforms** and have a decade-spanning background in **cloud-native infrastructure** — from Ceph/OpenStack/Kubernetes operations to today's LLM-powered developer & operator tooling.
 
-<!-- ========== WHAT I'M DOING ========== -->
-### 🌱 Currently
+🔭 **Currently building [@openIndu](https://github.com/openIndu) — AI‑enabled industrial internet:**
+- [`openIndu-backend`](https://github.com/openIndu/openIndu-backend) — FastAPI + PostgreSQL + **Milvus** + **MCP Server**; recently shipped streaming + direct-to-OSS multipart upload for **5 GB+** software packages.
+- [`openIndu-admin`](https://github.com/openIndu/openIndu-admin) — React 19 + Tailwind 4 + shadcn/ui unified admin dashboard (upload UX, version mgmt, bulk-publish).
+- [`openIndu-portal`](https://github.com/openIndu/openIndu-portal) — public Download Center & community portal.
+- [`openIndu-studio`](https://github.com/openIndu/openIndu-studio) — AI-assisted **PLC/HMI** dev toolchain (circuit design → BOM → IO planning → PLC code) backed by **RAG** over brand manuals + **MCP** agent tools.
 
-- 🔭 Working on cloud-native infrastructure & AI Agent systems
-- 📚 Deepening expertise in distributed storage (ceph) and orchestration (k8s)
-- 🤝 Open to collaborating on open-source infra / agent projects
-- ⚡ Fun fact: I love bridging classical infra with modern AI workflows
+🧪 **Experimenting at [@agentic-develop-playground](https://github.com/agentic-develop-playground)** with multi-phase Agent pipelines — `agent-development-specification`, `backlog`, `release-mgmt`, `workflow-control-tower`, GitOps via ArgoCD/Flux.
 
-<br/>
+🛠️ **Earlier work** I still care about:
+- [`open-infra`](https://github.com/TomNewChao/open-infra) — Vue + Django ops platform for the **openEuler** community (devops → aiops).
+- [`cephfs_storage`](https://github.com/TomNewChao/cephfs_storage) — Kubernetes provisioner that uses **CephFS** (via Ceph mgr API) as backend storage.
 
-<!-- ========== TECH STACK ========== -->
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="160"><strong>💻 Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,c,cpp,bash,lua" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>☁️ Cloud Native</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,nginx,linux,bash,git" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🧱 Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,rabbitmq,kafka,elasticsearch" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🎨 Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,html,css,vite" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🛠️ Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,vim,github,gitlab,postman,figma,obsidian" /></td>
-  </tr>
-</table>
+🎯 **Goal:** become an application architect — bridging classical cloud infra with LLM / Agent workflows.
+💬 *I may be slow to respond — but I deliver.*
 
 <br/>
 
