@@ -1,12 +1,12 @@
 <!-- ========== HEADER BANNER ========== -->
 <a href="https://github.com/TomNewChao">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:a855f7&height=220&section=header&text=TomNewChao&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=full-stack%20%C2%B7%20cloud-native%20%C2%B7%20Agent&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6366f1,100:a855f7&height=220&section=header&text=TomNewChao&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI-enabled%20Industrial%20Internet%20%C2%B7%20Cloud-native%20%C2%B7%20Agent&descAlign=50&descAlignY=62&descSize=18&animation=fadeIn" alt="header"/>
 </a>
 
 <!-- ========== TYPING SUBTITLE ========== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;ceph+%C2%B7+openstack+%C2%B7+kubernetes+%C2%B7+opencv;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;Building+AI-enabled+Industrial+Internet+platforms;RAG+%C2%B7+MCP+%C2%B7+Agent+%C2%B7+Ceph+%C2%B7+K8s;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,82 +31,35 @@
 <!-- ========== ABOUT ME ========== -->
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlpdjY4N2pwYmtmZGUyc2RjbmVrM3F1bTRwMXc0OGZkNW85dW5tdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" width="35px"></picture> About Me
 
-```yaml
-name:        TomNewChao
-location:    Sichuan, Chengdu 🇨🇳   (UTC+8)
-role:        Full-stack Engineer
-focus:
-  - cloud-native:   ceph · openstack · kubernetes
-  - vision & edge:  opencv · industry controller
-  - intelligence:   AI Agents · LLM tooling
-goal:        Become an Application Architect 🏗️
-motto:       "I may be slow to respond — but I deliver."
-```
+Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enabled industrial-internet platforms** and have a long background in **cloud-native infrastructure** — from Ceph / OpenStack / Kubernetes operations to today's LLM-powered developer & operator tooling.
 
-<!-- ========== WHAT I'M DOING ========== -->
-### 🌱 Currently
+🔭 **Currently focused on:**
+- AI-enabled industrial-internet platforms — backend services, admin dashboards, public portals.
+- AI-assisted **PLC/HMI** development tooling backed by **RAG** + **MCP** agent workflows.
+- Multi-phase **Agent pipelines** for product development (spec → backlog → release → ops).
 
-- 🔭 Working on cloud-native infrastructure & AI Agent systems
-- 📚 Deepening expertise in distributed storage (ceph) and orchestration (k8s)
-- 🤝 Open to collaborating on open-source infra / agent projects
-- ⚡ Fun fact: I love bridging classical infra with modern AI workflows
+🛠️ **Past work I still care about:**
+- Community ops platform for **openEuler** (devops → aiops).
+- Kubernetes provisioner using **CephFS** as backend storage.
+
+🎯 **Goal:** become an application architect — bridging classical cloud infra with LLM / Agent workflows.
+💬 *I may be slow to respond — but I deliver.*
 
 <br/>
 
-<!-- ========== TECH STACK ========== -->
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="160"><strong>💻 Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,c,cpp,bash,lua" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>☁️ Cloud Native</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,prometheus,grafana,nginx,linux,bash,git" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🧱 Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=redis,mysql,postgres,mongodb,rabbitmq,kafka,elasticsearch" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🎨 Frontend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue,nodejs,tailwind,html,css,vite" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🛠️ Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,vim,github,gitlab,postman,figma,obsidian" /></td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ========== GITHUB STATS ========== -->
-## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> GitHub Stats
+<!-- ========== SUMMARY CARDS ========== -->
+## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> Summary Cards
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomNewChao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366f1&icon_color=22c55e" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomNewChao&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=6366f1" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=TomNewChao&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=22c55e&fire=eab308&currStreakLabel=6366f1" />
-</div>
-
-<br/>
-
-### 📌 Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomNewChao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomNewChao&theme=transparent" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomNewChao&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomNewChao&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomNewChao&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomNewChao&theme=transparent" />
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomNewChao&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomNewChao&theme=tokyonight&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomNewChao&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomNewChao&theme=transparent&utcOffset=8" />
 </div>
 
 <br/>
@@ -115,7 +68,7 @@ motto:       "I may be slow to respond — but I deliver."
 ## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></picture> Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomNewChao&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6366f1&line=22c55e&point=eab308" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomNewChao&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <!-- ========== SNAKE ANIMATION ========== -->
@@ -123,15 +76,6 @@ motto:       "I may be slow to respond — but I deliver."
 
   <img src="https://raw.githubusercontent.com/TomNewChao/TomNewChao/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-</div>
-
-<br/>
-
-<!-- ========== QUOTE ========== -->
-## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"></picture> Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </div>
 
 <br/>
