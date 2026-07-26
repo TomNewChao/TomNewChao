@@ -43,7 +43,6 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
 - Kubernetes provisioner using **CephFS** as backend storage.
 
 🎯 **Goal:** become an application architect — bridging classical cloud infra with LLM / Agent workflows.
-💬 *I may be slow to respond — but I deliver.*
 
 <br/>
 
