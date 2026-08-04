@@ -4,35 +4,49 @@ on:
   schedule:
     - cron: "0 0 * * *" # daily at midnight UTC
   workflow_dispatch:
-  push:
-    branches: [main]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate overview.svg
-        uses: jstrieb/github-stats@master
+      - uses: actions/checkout@v4
         with:
-          username: TomNewChao
-          template: overview
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: overview.svg
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Clone github-stats
+        run: git clone https://github.com/jstrieb/github-stats.git
+
+      - name: Install dependencies
+        run: pip install -r github-stats/requirements.txt
+
+      - name: Generate overview.svg
+        run: |
+          python github-stats/generate.py \
+            --username TomNewChao \
+            --template overview \
+            --output overview.svg \
+            --token ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate languages.svg
-        uses: jstrieb/github-stats@master
-        with:
-          username: TomNewChao
-          template: languages
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: languages.svg
+        run: |
+          python github-stats/generate.py \
+            --username TomNewChao \
+            --template languages \
+            --output languages.svg \
+            --token ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to stats branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout --orphan stats
-          git reset --hard
+          git rm -rf . 2>/dev/null || true
           cp "$GITHUB_WORKSPACE/overview.svg" overview.svg
           cp "$GITHUB_WORKSPACE/languages.svg" languages.svg
           git add overview.svg languages.svg
