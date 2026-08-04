@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Email-chaotomzhu%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937" alt="Email"/>
   </a>
 </div>
-
 <br/>
 
 <!-- ========== ABOUT ME ========== -->
@@ -43,7 +42,6 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
 - Kubernetes provisioner using **CephFS** as backend storage.
 
 🎯 **Goal:** become an application architect — bridging classical cloud infra with LLM / Agent workflows.
-
 <br/>
 
 <!-- ========== GITHUB STATS ========== -->
@@ -67,16 +65,6 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
     </picture>
   </a>
 </div>
-
-<br/>
-
-<!-- ========== SNAKE ANIMATION ========== -->
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/TomNewChao/TomNewChao/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
 <br/>
 
 <!-- ========== FOOTER ========== -->
