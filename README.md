@@ -55,8 +55,6 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
       <img src="https://github.com/TomNewChao/github-stats/blob/generated/overview.svg" alt="GitHub Stats Overview" />
     </picture>
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/jstrieb/github-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TomNewChao/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
