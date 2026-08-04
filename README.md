@@ -5,7 +5,7 @@
 
 <!-- ========== TYPING SUBTITLE ========== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=46&lines=Hi+there+%F0%9F%91%8B+I'm+TomNewChao;Full-stack+%E2%9A%99%EF%B8%8F+Cloud-native+%E2%98%81%EF%B8%8F+Agent+%F0%9F%A4%96;Building+AI-enabled+Industrial+Internet+platforms;RAG+%C2%B7+MCP+%C2%B7+Agent+%C2%B7+Ceph+%C2%B7+K8s;On+the+way+to+become+an+Application+Architect+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
@@ -46,29 +46,25 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
 
 <br/>
 
-<!-- ========== SUMMARY CARDS ========== -->
-## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> Summary Cards
+<!-- ========== GITHUB STATS ========== -->
+## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomNewChao&theme=transparent" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/overview.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/overview.svg" alt="GitHub Stats Overview" />
+  </picture>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomNewChao&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomNewChao&theme=transparent" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomNewChao&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomNewChao&theme=transparent&utcOffset=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/languages.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/TomNewChao/TomNewChao/stats/languages.svg" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
-
-<!-- ========== ACTIVITY GRAPH ========== -->
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></picture> Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TomNewChao&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
-</div>
 
 <!-- ========== SNAKE ANIMATION ========== -->
 <div align="center">
