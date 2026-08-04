@@ -50,18 +50,20 @@ Full-stack engineer based in **Chengdu, Sichuan** (UTC+8). I work on **AI-enable
 ## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"></picture> GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jstrieb/github-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TomNewChao&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TomNewChao&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&bg_color=00000000">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomNewChao&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1" alt="TomNewChao's GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TomNewChao/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/TomNewChao/github-stats/blob/generated/overview.svg#gh-light-mode-only">
+      <img src="https://github.com/TomNewChao/github-stats/blob/generated/overview.svg" alt="GitHub Stats Overview" />
     </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+</div>
+<div align="center">
+  <a href="https://github.com/jstrieb/github-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TomNewChao&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=00000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=TomNewChao&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&bg_color=00000000">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomNewChao&layout=compact&theme=transparent&hide_border=true&title_color=6366f1" alt="TomNewChao's Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TomNewChao/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/TomNewChao/github-stats/blob/generated/languages.svg#gh-light-mode-only">
+      <img src="https://github.com/TomNewChao/github-stats/blob/generated/languages.svg" alt="Top Languages" />
     </picture>
   </a>
 </div>
